@@ -1,0 +1,1 @@
+I just wanna know what functionalities would I need and how will I separate them.
